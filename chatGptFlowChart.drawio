@@ -1,9 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T01:20:26.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.7.3" etag="RvauHBIcKWDQ-6wivOUE" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="nPCyMbRaIbvUJXJUk87C">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vC6d7QAxw_puMY1igONk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vC6d7QAxw_puMY1igONk-1" target="vC6d7QAxw_puMY1igONk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="314" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vC6d7QAxw_puMY1igONk-5" target="vC6d7QAxw_puMY1igONk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-5" value="随机上传并邮件发送申请表模板到指定的统计师&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="254" y="240" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vC6d7QAxw_puMY1igONk-6" target="vC6d7QAxw_puMY1igONk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-6" value="统计师接收到邮件，点击链接进入平台在线编辑，填充申请表内容（草稿版）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="254" y="390" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vC6d7QAxw_puMY1igONk-7" target="vC6d7QAxw_puMY1igONk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-7" value="统计师点击提交按钮，发送邮件给随机，&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%BB%9F%E8%AE%A1%E5%B8%88%E6%8E%A5%E6%94%B6%E5%88%B0%E9%82%AE%E4%BB%B6%EF%BC%8C%E7%82%B9%E5%87%BB%E9%93%BE%E6%8E%A5%E8%BF%9B%E5%85%A5%E5%B9%B3%E5%8F%B0%E5%9C%A8%E7%BA%BF%E7%BC%96%E8%BE%91%EF%BC%8C%E5%A1%AB%E5%85%85%E7%94%B3%E8%AF%B7%E8%A1%A8%E5%86%85%E5%AE%B9%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BabsoluteArcSize%3D1%3BarcSize%3D14%3BstrokeWidth%3D2%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22254%22%20y%3D%22390%22%20width%3D%22220%22%20height%3D%22100%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;待随机审核" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="254" y="540" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vC6d7QAxw_puMY1igONk-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="364" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-8" value="随机通过邮件链接，进行在线审核" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="254" y="700" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vC6d7QAxw_puMY1igONk-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="367" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-9" value="通过" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="254" y="850" width="226" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vC6d7QAxw_puMY1igONk-10" target="vC6d7QAxw_puMY1igONk-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-10" value="邮件通知统计师，审核通过(审核版)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="254" y="1000" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-13" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="314" y="950" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-14" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="870" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vC6d7QAxw_puMY1igONk-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="364" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-22" value="统计师将审核版文件上传至平台，发起签字工作流，邮件通知总监" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="254" y="1190" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-23" value="总监接收到邮件签字链接，签署文件，邮件通知统计师" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="257" y="1380" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-24" value="统计师进入平台将签署后文件，通过发送按钮，发送至随机" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="257" y="1690" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vC6d7QAxw_puMY1igONk-30" target="vC6d7QAxw_puMY1igONk-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="400" as="targetPoint" />
+            <mxPoint x="480" y="1570" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="721" y="1570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-30" value="通过" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="254" y="1520" width="226" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vC6d7QAxw_puMY1igONk-23" target="vC6d7QAxw_puMY1igONk-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-35" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="317" y="1640" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-36" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1540" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-38" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="317" y="1840" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vC6d7QAxw_puMY1igONk-24" target="vC6d7QAxw_puMY1igONk-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vC6d7QAxw_puMY1igONk-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="454" as="targetPoint" />
+            <mxPoint x="480" y="900" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="660" y="900" />
+              <mxPoint x="660" y="454" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
